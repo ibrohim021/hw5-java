@@ -9,9 +9,11 @@ public class ex1 {
         pb.add("Ivanov", "89993456785");
         pb.add("Petrov", "89694553322");
         pb.add("Petrov", "89594542211");
+        pb.add("Sidorov", "87453332300");
+        pb.add("Sidorov", "84957879090");
 
-        System.out.println(pb.get("Petrov"));
-        // System.out.println(pb.get("Ivanov"));
+        System.out.println(pb.get("Sidorov"));
+        
     }
 }
 
